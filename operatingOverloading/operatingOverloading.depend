@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1361666690 source:/home/cody/Dropbox/Programming/C++/operatingOverloading/main.cpp
+	<iostream>
+	"ticket.h"
+
+1361666390 /home/cody/Dropbox/Programming/C++/operatingOverloading/include/ticket.h
+
